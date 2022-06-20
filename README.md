@@ -6,3 +6,6 @@ This course will walk you through writing your first action and using it with a 
 
 
 Adding commit-s to test out merging functionality
+
+
+Making another change
